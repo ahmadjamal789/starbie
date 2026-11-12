@@ -27,7 +27,7 @@ Made for the **Hack Club Half-Life Challenge**.
 | 0.96" 128x64 I2C OLED | U3 | Shows Starbie's face | 1 | $8.59 | [link](https://example.com) |
 | Push button | SW1, SW2 | User input | 2 | $0.94 | [link](https://example.com) |
 | RGB LED (ARGB) | D1, D2 | Mood lights | 2 | $0.72 | [link](https://example.com) |
-| **Total** | | | | **$18.91** | |
+| **Total** | | | | **$20.44** | |
 
 
 Full parts list: see [`bom.csv`](bom.csv).
